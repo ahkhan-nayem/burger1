@@ -1,0 +1,161 @@
+.header{
+	background-image: url(../images/Burger-House.jpg);
+	min-height: 100vh;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.navbar{
+	padding: 40px 0;
+}
+
+
+.navbar-nav .nav-link.active{
+	font-size: 20px;
+} 
+.nav-link{
+	font-size: 20px;
+}
+
+
+.nav-item a{
+	font-family: 'Bebas Neue', cursive;
+	padding-left: 30px !important;
+}
+
+
+.row{
+}
+.height{
+	min-height: 90vh;
+	align-items: center;
+}
+.ban-leftmain{
+	align-items: ;
+}
+.ban-left p{
+	display: inline-block;
+	font-size: 25px;
+	font-family: 'Bebas Neue', cursive;
+	padding: 10px;
+	border: 1px dashed #42200B;
+}
+.ban-left h3{
+	display: inline-block;
+	font-size: 100px;
+	font-family: 'Alfa Slab One', cursive;
+	text-transform: uppercase;
+	color: #3d2514;
+	text-shadow: 3px 5px white;
+/*	border: 1px dashed #42200B;*/
+}
+
+.ban-left h4{
+	display: inline-block;
+	font-size: 50px;
+	font-family: 'Alfa Slab One', cursive;
+	text-transform: uppercase;
+	color: #3d2514;
+	text-shadow: 3px 5px white;
+/*	border: 1px dashed #42200B;*/
+}
+
+.ban-left img{
+	padding: 20px 0;
+}
+.ban-right{
+
+	overflow: hidden;
+	display: inline-flex;
+/*	border: 1px solid red;*/
+}
+.ban-right1 img{
+		margin-left: 20%;
+		margin-top: 26%;
+
+	float: left;
+}
+.ban-right2 img{
+	margin-left: -20%;
+	margin-top: 26%;
+	float: left;
+}
+.ban-right3 img{
+	margin-left: -90%;
+	float: left;
+
+}
+.image-gallery{
+	margin: 0 auto;
+	padding: 80px 0;
+}
+.textbg1{
+	background-image: url(../images/onion-burger.png);
+}
+/*.image-gal-left1 {
+	background-image: url(../images/Burger-House.pngsd.png);
+}*/
+.image-gal-left2{
+	margin-top: 5%;
+}
+.col-md-3{
+	text-align: center;
+}
+.tasty-p{
+	display: inline-block;
+	text-align: center;
+	padding: 10px 16px;
+	display: inline-block;
+	font-family:'Bebas Neue', cursive ;
+	font-size: 30px;
+	color: #42200B;
+	font-weight: 500;
+
+}
+.choose{
+	text-align: center;
+	font-size: 60px;
+	font-family: 'Alfa Slab One', cursive;
+	color: #42200B;
+
+}
+.text-para{
+	text-align: center;
+	color: #42200B;
+	font-size: 18px;
+}
+.burger-display{
+	padding: 80px 0;
+}
+.col-md-4{
+	text-align: center;
+}
+.burger-image1{
+
+}
+.burger-image1 img{
+
+}
+.burger-image2{
+
+}
+.burger-image2 img{
+	text-align: center;
+
+}
+
+.col-md-4 h2{
+	font-family:'Bebas Neue', cursive ;
+	font-size: 40px;
+	color: #42200B;
+}
+.col-md-4 button{
+	padding: 16px 35px;
+	font-size: 18px;
+	color: white;
+	font-family: 'Alfa Slab One', cursive;
+	text-transform: uppercase;
+	background: red;
+	border: none;
+}
